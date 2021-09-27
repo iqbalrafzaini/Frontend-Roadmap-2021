@@ -1,0 +1,6 @@
+Frontend Roadmap 2021
+-HTML : form validations, semantic html, SEO.
+-CSS : box model, position, display, responsive.
+-CSS Preprocessors : SASS, Styled Component, CSS modules.
+-Javascript : Dom manipulation, Es6+, variables, hoisting, regular function and arrow function, array methods, Object.
+-FE Framework: React, Vue, Angular, Svelte
