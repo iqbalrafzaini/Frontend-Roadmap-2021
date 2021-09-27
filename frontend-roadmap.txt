@@ -3,4 +3,9 @@ Frontend Roadmap 2021
 -CSS : box model, position, display, responsive.
 -CSS Preprocessors : SASS, Styled Component, CSS modules.
 -Javascript : Dom manipulation, Es6+, variables, hoisting, regular function and arrow function, array methods, Object.
--FE Framework: React, Vue, Angular, Svelte
+-FE Framework: React, Vue, Angular, Svelte.
+-State Management : Vuex, Redux, Context API.
+-SSR : Nuxt.js (Vue), Next.js(React).
+-Package Manager: NPM, Yarn.
+-More Tools: Prettier, Webpack, Rollup, Lerna, ESLint.
+-Basic Tools: VsCode, Chrome, Canva, Photoshop, iTerm, Bash.
