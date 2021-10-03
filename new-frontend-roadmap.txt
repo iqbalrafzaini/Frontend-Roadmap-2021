@@ -1,6 +1,8 @@
 New frontend roadmap
 -learn to use terminals
--learn aws service: s3 bucket.
+-learn aws service: ec2, s3 bucket.
 -build portfolio website.
 -host your site online: aws, netlify, github, vercel.
--build a project using html + css + javascript
+-build a project using html + css + javascript: build expense tracker, e-commerce, blog app.
+-build project using your favorite library.
+
