@@ -1,0 +1,4 @@
+New frontend roadmap
+-learn to use terminals
+-learn aws service
+-host your site online
